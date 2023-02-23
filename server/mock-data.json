@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "FT-100",
+    "price": 1435779,
+    "description": "Avoid incomplete reality-capture datasets or costly trips back to the field to fill inthe blanks by capturing processing, and verifying scan data directly on site usingthe FT-100 running Collage Site field software. Real-time analysis workflows in the field provide actionable insights that save time and money, and reduce rework.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Topcon_FT-100_mb5yu3.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 11,
+    "category": "controller",
+    "numberOfReviews": 74,
+    "averageRating": 2
+  },
+  {
+    "name": "TSC3",
+    "price": 1781827,
+    "description": "The Trimble TSC3 controller with Trimble Access software is a handheld field computing solution that streamlines the flow of everyday surveying work and the number of devices you need in the field.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Trimble_TSC3_dgc51c.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": [ "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 81,
+    "category": "controller",
+    "numberOfReviews": 70,
+    "averageRating": 5
+  },
+  {
+    "name": "TSC7",
+    "price": 524446,
+    "description": "The Trimble TSC7 controller combines the power of a tablet, laptop and survey-rugged field controller in one device. Used together with Trimble Access™ field software, the TSC7 delivers the latest in field technology and streamlined workflows and unleashes powerful new ways to survey in the field.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Trimble_TSC7_jz3eca.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 98,
+    "category": "controller",
+    "numberOfReviews": 65,
+    "averageRating": 3
+  },
+  {
+    "name": "CS35",
+    "price": 1384373,
+    "description": "The Leica CS35s slim yet robust design and high performance allow you to work comfortably and at speed. Interact with data like never before with the large screen visible in all conditions. Running Windows, the Leica CS35 can fit your entire office into one device with the added bonus of complete mobility.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Leica_CS35_tpagx8.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 91,
+    "category": "controller",
+    "numberOfReviews": 62,
+    "averageRating": 4
+  },
+  {
+    "name": "TDC600",
+    "price": 1213633,
+    "description": "The Trimble TDC600 handheld is a sleek, all-in-one rugged smartphone with a built-in professional GNSS receiver. Designed for ease-of-use in a wide range of GIS and survey applications, the TDC600 helps you collect and retrieve highly accurate spatial information while staying in touch with the office—allwith a single device. Its the smart, productive way to collect data and communicate from the field.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Trimble_TDC600_kcgmzo.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": [ "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 41,
+    "category": "controller",
+    "numberOfReviews": 36,
+    "averageRating": 3
+  },
+  {
+    "name": "FC-6000",
+    "price": 242220,
+    "description": "Starting with its handy 7-inch display specifically designedfor visibility in direct sunlight, the FC-6000 field computer isbuilt with your productivity in mind.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715581/shopProjectFiles/Topcon_FC-6000_nwwbbg.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd "],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 73,
+    "category": "controller",
+    "numberOfReviews": 93,
+    "averageRating": 3
+  },
+  {
+    "name": "CS20",
+    "price": 1926728,
+    "description": "The Leica CS20 controller offers a robust design and high performance, providing the ultimate in control and convenience with complete mobility. Touch screen technology allows you to process data while a stunning 3D view transforms your Leica Viva GNSS and Leica Nova scanning experiences.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715580/shopProjectFiles/Leica_CS20_dmjjau.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 63,
+    "category": "controller",
+    "numberOfReviews": 98,
+    "averageRating": 4
+  },
+  {
+    "name": "CS30",
+    "price": 1704996,
+    "description": "Leica CS30 tablet is a versatile controller designed for durability. If you're looking for an all-round field controller, choose the survey-proof CS30. It is small enough to take along everywhere but has the power to perform a variety of survey jobs, use imaging sensors and work with drawings.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715580/shopProjectFiles/Leica_CS30_gdeztx.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 18,
+    "category": "controller",
+    "numberOfReviews": 76,
+    "averageRating": 1
+  },
+  {
+    "name": "HCE600",
+    "price": 1339892,
+    "description": "The HCE600 features a powerful Helio MTK 6762 eight-core processor that delivers the best performance, runs 50% faster, and consumes 25% less power than its predecessors.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715580/shopProjectFiles/CHCNAV_HCE600_zljvlu.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 89,
+    "category": "controller",
+    "numberOfReviews": 98,
+    "averageRating": 3
+  },
+  {
+    "name": "LT700",
+    "price": 1527578,
+    "description": "The handy and versatile LT700 rugged tablet is the perfect companion for mobile field workers. Its vivid and sharp 8-inch, 450 cd/m2 sunlight readable touchscreen display enhances maps and data visualization.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715580/shopProjectFiles/CHCNAV_LT700_wegqjj.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 16,
+    "category": "controller",
+    "numberOfReviews": 70,
+    "averageRating": 4
+  },
+  {
+    "name": "LT700H",
+    "price": 1001347,
+    "description": "Powered by 184-channel high performance GPS, Glonass, Galileo and BeiDou module and superior tracking GNSS helical antenna, the LT700H provides best-in-class centimeter to decimeter position in demanding environments.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715580/shopProjectFiles/CHCNAV_LT700H_hagra7.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 41,
+    "category": "controller",
+    "numberOfReviews": 57,
+    "averageRating": 4
+  },
+  {
+    "name": "R2",
+    "price": 792107,
+    "description": "The Trimble R2 is a compact, durable GNSS receiver that provides an easy-to-use solution for GIS and survey professionals who need to collect highly accurate data in a wide range of geospatial applications.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715562/shopProjectFiles/Trimble_R2_ryo0dn.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 64,
+    "category": "gps",
+    "numberOfReviews": 62,
+    "averageRating": 1
+  },
+  {
+    "name": "R780",
+    "price": 204035,
+    "description": "The Trimble R780 GNSS receiver is a highly accurate GNSS system built to handle the toughest survey environments. Powered by industry-leading Trimble GNSS positioning technologies, the ultra-rugged R780 elevates productivity in one adaptable,scalable system.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715562/shopProjectFiles/Trimble_R780_r4ppd7.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 30,
+    "category": "gps",
+    "numberOfReviews": 82,
+    "averageRating": 5
+  },
+  {
+    "name": "R12i",
+    "price": 333811,
+    "description": "The Trimble R12i delivers unmatched GNSS performance, speed and accuracy to boost your productivity like never before. With improved performance in challenging GNSS conditions and robust IMU-based tilt compensation that lets you forget about leveling the pole, you'll get more done faster than you thought possible.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715562/shopProjectFiles/Trimble_R12i_ipv3pm.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 13,
+    "category": "gps",
+    "numberOfReviews": 82,
+    "averageRating": 4
+  },
+  {
+    "name": "R12",
+    "price": 735877,
+    "description": "The Trimble R12 GNSS receiver is engineered for improved performance in challenging GNSS conditions. With ground-breaking signal management and rugged durability, get ready to go further than you ever thought possible.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715562/shopProjectFiles/Trimble_R12_m9dg0l.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 64,
+    "category": "gps",
+    "numberOfReviews": 1,
+    "averageRating": 1
+  },
+  {
+    "name": "PG-F1",
+    "price": 951168,
+    "description": "The PG-F1 is a full-constellation antenna that provides reliable solutions by tracking GPS, GLONASS, BeiDou, Galileo, QZSS, SBAS and L-Band satellites.PG-F1 is compact and features an ultra-rugged design with integrated ground plane.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715562/shopProjectFiles/Topcon_PG-F1_ue37f3.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 37,
+    "category": "gps",
+    "numberOfReviews": 56,
+    "averageRating": 1
+  },
+  {
+    "name": "PN-A5",
+    "price": 991861,
+    "description": "The PN-A5 antenna combines our TA-5 full-spectrum GNSS antenna element with an innovative convex impedance ground plane. The TA-5 antenna element utilizes an array of vertical dipoles to provide highly sensitive and stable full wavesignal tracking for all existing and planned GNSS signals.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Topcon_PN-A5_y7sldi.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 88,
+    "category": "gps",
+    "numberOfReviews": 80,
+    "averageRating": 4
+  },
+  {
+    "name": "G5-A1",
+    "price": 780371,
+    "description": "A rugged housing combined with full-constellation GNSS tracking, this antenna has been designed for tracking all currently broadcast signals as well as those planned for the future. This economical alternative to our CR-G5 high-accuracy infrastructure antenna fits almost any budget yet yields high-quality results at the same time, thanks to its all-in-view tracking.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Topcon_G5-A1_hkjywb.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 57,
+    "category": "gps",
+    "numberOfReviews": 86,
+    "averageRating": 2
+  },
+  {
+    "name": "GS18 T",
+    "price": 799024,
+    "description": "You can forget the bubble when you use the Leica GS18 T. It is the original truly tilt compensating GNSS solution that is immune to magnetic disturbances and is calibration-free. The sensor fusion of GNSS and Inertial Measurement Unit (IMU) creates the original true tilt compensating GNSS smart antenna. For GS18, T means tilt.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Leica_GS18T_k3fuhk.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 67,
+    "category": "gps",
+    "numberOfReviews": 4,
+    "averageRating": 5
+  },
+  {
+    "name": "GS18",
+    "price": 1546147,
+    "description": "The Leica GS18 is a self-learning GNSS smart antenna. GS18 inherits all features of the Leica GS18 T except tilt compensation. However, the GS18 grows with your business: upgrade it to a tilt compensating system at any time. ",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Leica_GS18_s0zzvf.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 51,
+    "category": "gps",
+    "numberOfReviews": 32,
+    "averageRating": 2
+  },
+  {
+    "name": "GS16",
+    "price": 1543926,
+    "description": "Tracking multi-frequency signals comes as standard with all Leica Geosystems GS sensors. Combined with an excellent GNSS antenna element and a position update rate of 20 Hz, GS16 ensures reliable measurement quality.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Leica_GS16_yvkhvl.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 89,
+    "category": "gps",
+    "numberOfReviews": 82,
+    "averageRating": 4
+  },
+  {
+    "name": "GS18 I",
+    "price": 1128390,
+    "description": "Introducing Leica GS18 I, a versatile, survey-grade GNSS RTK rover with Visual Positioning. Designed for surveying professionals to measure points which previously could not be measured with a GNSS rover easily and accurately. Now, you can quickly capture the site in images and measure points from them, either in the field or later in the office. For GS18, I means imaging.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715561/shopProjectFiles/Leica_GS18I_pztapc.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 20,
+    "category": "gps",
+    "numberOfReviews": 36,
+    "averageRating": 5
+  },
+  {
+    "name": "i50",
+    "price": 588884,
+    "description": "May your project conditions change during your project, the preset survey modes are easy to select or switch directly on the i50 GNSS receiver.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/CHCNAV_i50_axmh0a.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 34,
+    "category": "gps",
+    "numberOfReviews": 26,
+    "averageRating": 4
+  },
+  {
+    "name": "GMX910",
+    "price": 210043,
+    "description": "With limited budgets, monitoring equipment now has to do a lot more for a lot less. The Leica GMX910 offers monitoring specialists a smart, flexible and cost-effective antenna, equipped with high-end GNSS technology. From static long-term to dynamic high-frequency projects, the GMX910 exceeds monitoring demands  today and tomorrow.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/Leica_GMX910_xmobse.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 85,
+    "category": "gps",
+    "numberOfReviews": 63,
+    "averageRating": 3
+  },
+  {
+    "name": "i90",
+    "price": 776839,
+    "description": "No complicated calibration process, rotation, leveling or accessories are necessary with the i90. Just a few meters walk will initialize the i90 internal IMU module and enable RTK survey in difficult field environment.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/CHCNAV_i90_zoiea5.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 83,
+    "category": "gps",
+    "numberOfReviews": 35,
+    "averageRating": 5
+  },
+  {
+    "name": "i83",
+    "price": 1903744,
+    "description": "The i83 GNSS smart antenna delivers centimeter precision in seconds and maintains reliable fixed RTK accuracy even in typically challenging environments.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/CHCNAV_i83_nkzimg.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 41,
+    "category": "gps",
+    "numberOfReviews": 30,
+    "averageRating": 5
+  },
+  {
+    "name": "i73+",
+    "price": 905950,
+    "description": "The i73+ extends GNSS surveying capabilities while maintaining centimeter-level survey-grade accuracy. GNSS surveying has never been more efficient.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/CHCNAV_i73_sjgb05.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 45,
+    "category": "gps",
+    "numberOfReviews": 18,
+    "averageRating": 5
+  },
+  {
+    "name": "GS07",
+    "price": 1370439,
+    "description": "The GS07 GNSS RTK sensor combines seamlessly with the completely engaging Leica Captivate software for a powerfully immersive experience. Through the simplicity of touch, management of complex data is made extraordinarily enjoyable and actionable.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715560/shopProjectFiles/Leica_GS07_pxktqr.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd "],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 70,
+    "category": "gps",
+    "numberOfReviews": 28,
+    "averageRating": 5
+  },
+  {
+    "name": "DiNi",
+    "price": 1252577,
+    "description": "Determine accurate height information 60% faster than with automatic leveling.Eliminate errors and reduce rework with digital readings.Transfer data to the office to complete your deliverables.Level Accuracy 0.3 or 0.7 mm.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Trimble_DiNi_qxpm7h.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 12,
+    "category": "level",
+    "numberOfReviews": 6,
+    "averageRating": 4
+  },
+  {
+    "name": "DL500",
+    "price": 1212276,
+    "description": "The DL-500 range of digital levels from Topcon strips away the main sources of errors (humans!) in leveling by integrating RAB (Random-Bidirectional) staff encoding and 'Wave-and-Read' technologies.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Topcon_DL500_ruqqqj.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14","#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 83,
+    "category": "level",
+    "numberOfReviews": 67,
+    "averageRating": 1
+  },
+  {
+    "name": "AT-B",
+    "price": 597467,
+    "description": "Thanks to the finely tuned autocollimation system, the AT-B series of auto levels is ideal for determining height differentials on busy and noisy job sites. With a small and lightweight design, they have excellent horizontal circle visibility, superior gear ratios for shock and vibration, and improved tangents and knobs.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Topcon_AT-B_gj6i14.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 42,
+    "category": "level",
+    "numberOfReviews": 21,
+    "averageRating": 5
+  },
+  {
+    "name": "LS15 & LS10",
+    "price": 1311436,
+    "description": "Leica LS15 and LS10 digital levels alleviate demanding levelling tasks on any site. Automated functions and industry-leading 0.2mm accuracy allow users to easily demonstrate their measuring skills while effectively completing any project.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Leica_LS15_LS10_jt016d.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 52,
+    "category": "level",
+    "numberOfReviews": 69,
+    "averageRating": 1
+  },
+  {
+    "name": "Sprinter 150",
+    "price": 1161783,
+    "description": "Improve your efficiency with the automatic calculations of the Leica Sprinter 150 for delta height and tracking & monitoring. The digital level covers almost all construction applications such as cut & fill, line levelling and distance measurement. For continuous measurement choose the tracking and averaging mode for even more accurate results.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Leica_Sprinter_150_ofic94.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 33,
+    "category": "level",
+    "numberOfReviews": 52,
+    "averageRating": 2
+  },
+  {
+    "name": "Runner NA532",
+    "price": 630273,
+    "description": "The Leica NA532 level has received an iF Design Award in the product discipline for the industry/skilled trades category.On your terms, on your site, Leica Geosystems is your trusted partner. The Leica NA500 Series provides you with reliable levels for accurate measurements and high quality results.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715537/shopProjectFiles/Leica_Runner_NA532_zqwvhc.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 98,
+    "category": "level",
+    "numberOfReviews": 75,
+    "averageRating": 4
+  },
+  {
+    "name": "Sprinter 50",
+    "price": 603430,
+    "description": "Improve the quality of your daily measuring tasks. Get the results simply by the push of a button. The one-button level is easy to use also without specific instructions or trainings. Glaring sun shine or rain does not stop the Leica Sprinter 50 as it is dust and jet-water protected (protection class IP 55).",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715536/shopProjectFiles/Leica_Sprinter_50_gezdfg.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 38,
+    "category": "level",
+    "numberOfReviews": 55,
+    "averageRating": 5
+  },
+  {
+    "name": "Runner NA700",
+    "price": 1740926,
+    "description": "The Leica NA700 levels defy the toughest of building site environments. Save time and money with no need for regular checks in the workshop or constant readjustment. When it comes to extreme robustness and optimum measuring accuracy, the Leica NA700 levels are hard to beat. ",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715536/shopProjectFiles/Leica_NA700_fwjvuo.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 32,
+    "category": "level",
+    "numberOfReviews": 31,
+    "averageRating": 5
+  },
+  {
+    "name": "Runner NA300",
+    "price": 1458118,
+    "description": "The Leica NA300 Series of automatic (optical) levels has been developed for professionals who are looking for the highest quality results day by day. With the many obstructions and uneven surfaces on construction and building sites, the levels NA300 levels rise to the occasion and ensure the straightest and safest construction possible.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715536/shopProjectFiles/Leica_NA300_q1lo8g.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 42,
+    "category": "level",
+    "numberOfReviews": 61,
+    "averageRating": 4
+  },
+  {
+    "name": "ThermalMapper TH-M1",
+    "price": 1875428,
+    "description": "The Thermal Mapper (TH-M1) complements paving workflows by monitoring asphalt temperature and thermal segregation during the paving process.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715522/shopProjectFiles/Topcon_Thermal_Mapper_TH-M1_jeul0c.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 18,
+    "category": "machine control system",
+    "numberOfReviews": 25,
+    "averageRating": 5
+  },
+  {
+    "name": "RD-MC",
+    "price": 602610,
+    "description": "This complete solution is revolutionizing the road resurfacing industry. The modern RD-MC system fully maximizes the capabilities of our 3D-MC technology and delivers better results throughout the paving and milling process. You save time, lower costs, and increase safety.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715522/shopProjectFiles/Topcon_RD-MC_txbgsw.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 89,
+    "category": "machine control system",
+    "numberOfReviews": 25,
+    "averageRating": 3
+  },
+  {
+    "name": "SYSTEM 5",
+    "price": 577645,
+    "description": "Whether working on flat or sloped pads, roads, or airports, System 5 turns a starting operator into a productive one – and makes an experienced operator even better.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715522/shopProjectFiles/Topcon_SYSTEM_5_r7fmvp.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 44,
+    "category": "machine control system",
+    "numberOfReviews": 26,
+    "averageRating": 5
+  },
+  {
+    "name": "iCON alpine Snow Management",
+    "price": 1498265,
+    "description": "Leica iCON alpine snow management is a comprehensive suite of tools including the 3D snow measurement solution that delivers real-time data on the in-cabin display showing exact snow depths under the blade.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Leica_iCON_alpine_Snow_Management_ec2w3u.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 90,
+    "category": "machine control system",
+    "numberOfReviews": 70,
+    "averageRating": 4
+  },
+  {
+    "name": "LPS",
+    "price": 1275552,
+    "description": "When a higher-accuracy solution is required, or satellite access is prevented by heavy tree cover, buildings, tunnels, or other jobsite structures, LPS (Local Positioning Systems) can use total stations to provide precise location and height information.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Topcon_LPS_y7wg67.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 77,
+    "category": "machine control system",
+    "numberOfReviews": 78,
+    "averageRating": 4
+  },
+  {
+    "name": "MILIMETER GPS GRADER",
+    "price": 1613521,
+    "description": "Laser Zone — A unique coded laser — creates a grade control zone with all the advantages of satellite positioning technology, along with the accuracy of a laser. You get enhanced accuracies with the superior performance and usability of Topcon machine control.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Topcon_MILIMETER_GPS_GRADER_qaizsy.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": [ "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 11,
+    "category": "machine control system",
+    "numberOfReviews": 66,
+    "averageRating": 5
+  },
+  {
+    "name": "iCON iXE3",
+    "price": 1429875,
+    "description": "The iXE3 machine control solution guides the operator using reference models and GNSS in 3D. Design information and real-time cut/fill indications are displayed in the cab on your control panel, allowing you to rapidly excavate to the reference design.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Leica_iCON_iXE3_lqqijz.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 24,
+    "category": "machine control system",
+    "numberOfReviews": 40,
+    "averageRating": 5
+  },
+  {
+    "name": "iGD2",
+    "price": 794255,
+    "description": "Leica iCON grading system for dozers will revolutionise the way you move dirt and fine-grade. The 3D solution brings design surfaces inside the cab. Work independently, and accurately, anywhere on the project design guided by a GNSS system or a robotic total station.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Leica_iGD2_hxfict.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 15,
+    "category": "machine control system",
+    "numberOfReviews": 9,
+    "averageRating": 5
+  },
+  {
+    "name": "PowerBlade MCP700",
+    "price": 839040,
+    "description": "The Leica PowerBlade system is a complete solution steered by the MCP700 control box easy-to-use and full of features.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Leica_PowerBlade_MCP700_z44arv.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 80,
+    "category": "machine control system",
+    "numberOfReviews": 39,
+    "averageRating": 2
+  },
+  {
+    "name": "DR-53i",
+    "price": 949650,
+    "description": "The DR-53i Drill Rig Indicate System provides navigation assistance, pattern design wizards and visible indicators letting operators know they are at the right spot and angle to start their hole.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715521/shopProjectFiles/Topcon_DR-53i_yismgg.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": [ "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 18,
+    "category": "machine control system",
+    "numberOfReviews": 77,
+    "averageRating": 2
+  },
+  {
+    "name": "TG 63",
+    "price": 675974,
+    "description": "The CHCNAV's GR-Tech technology combines dual GNSS satellite positioning with inertial navigation to ensure ultimate accuracy in driving the grader blade to within ±2 cm, regardless of the machine's position.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715520/shopProjectFiles/CHCNAV_TG-63_lwjsz0.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 44,
+    "category": "machine control system",
+    "numberOfReviews": 39,
+    "averageRating": 1
+  },
+  {
+    "name": "D230",
+    "price": 837812,
+    "description": "The D230 is a single beam echo sounder making hydrographic surveying simpler and more productive.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715464/shopProjectFiles/CHCNAV_D230_tj8jbc.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 42,
+    "category": "marine system",
+    "numberOfReviews": 49,
+    "averageRating": 5
+  },
+  {
+    "name": "D390",
+    "price": 992169,
+    "description": "The D390 is a fully integrated and affordable single frequency echo sounder solution combined with the performance of an industrial PC.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715464/shopProjectFiles/CHCNAV_D390_niroyt.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 81,
+    "category": "marine system",
+    "numberOfReviews": 5,
+    "averageRating": 1
+  },
+  {
+    "name": "APACHE6 USV",
+    "price": 1225257,
+    "description": "APACHE 6 design is optimized for the NORBIT iWBMSe, iWBMS and iWBMSh-STX series offering with high end performances to match the most demanding hydrographic survey requirements.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715464/shopProjectFiles/CHCNAV_APACHE6_USV_wsno2x.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 61,
+    "category": "marine system",
+    "numberOfReviews": 27,
+    "averageRating": 4
+  },
+  {
+    "name": "APACHE3 USV",
+    "price": 1180535,
+    "description": "The Apache3 provides consistently high accuracy positions even during temporary GNSS outages while passing under bridges. Tight integration of GNSS and INS data eliminates outliers.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715464/shopProjectFiles/CHCNAV_APACHE3_USV_b7dsgo.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 72,
+    "category": "marine system",
+    "numberOfReviews": 24,
+    "averageRating": 1
+  },
+  {
+    "name": "APACHE4 USV",
+    "price": 486988,
+    "description": "The APACHE 4 control system enables to navigate straight along the cross-section according to the profile view when the flow rate, turbulence, etc. change.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715463/shopProjectFiles/CHCNAV_APACHE4_USV_gcyrfu.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 92,
+    "category": "marine system",
+    "numberOfReviews": 21,
+    "averageRating": 3
+  },
+  {
+    "name": "X12 3D",
+    "price": 456170,
+    "description": "The Trimble X12 scanning system unites the best of both worlds with industry-leading hardware and Trimble’s powerful, ultra-efficient Trimble Perspective software for guaranteed peak performance.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715449/shopProjectFiles/Trimble_X12_3D_ofpa3d.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 63,
+    "category": "scanner",
+    "numberOfReviews": 47,
+    "averageRating": 3
+  },
+  {
+    "name": "X7",
+    "price": 1905471,
+    "description": "High-speed 3D laser scanning system with advanced technologies to simplify adoption, increase efficiency and provide confidence in the field powered by Trimble Perspective.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715449/shopProjectFiles/Trimble_X7_uqnfkt.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 16,
+    "category": "scanner",
+    "numberOfReviews": 73,
+    "averageRating": 1
+  },
+  {
+    "name": "TX8",
+    "price": 1557983,
+    "description": "Designed for performance, the Trimble TX8 enables you to complete 3D laser scanning projects faster than ever.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715449/shopProjectFiles/Trimble_TX8_upx9jd.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 99,
+    "category": "scanner",
+    "numberOfReviews": 33,
+    "averageRating": 5
+  },
+  {
+    "name": "GLS-2200",
+    "price": 545594,
+    "description": "Quickly tackle any job with the latest in scanning and workflow technology. The GLS-2200 features a unique survey style setup and user-friendly processing software that turn lengthy scanning processes into fast and easy workflows.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715448/shopProjectFiles/Topcon_GLS-2200_ma13mr.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 100,
+    "category": "scanner",
+    "numberOfReviews": 21,
+    "averageRating": 2
+  },
+  {
+    "name": "TX6",
+    "price": 723462,
+    "description": "Essential performance  effective high speed scanning with consistent accuracy over the full scan range. The Trimble TX6 delivers superior performance compared to other similarly priced scanners.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715448/shopProjectFiles/Trimble_TX6_lltwil.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 76,
+    "category": "scanner",
+    "numberOfReviews": 75,
+    "averageRating": 4
+  },
+  {
+    "name": "RD-M1",
+    "price": 1139860,
+    "description": "The revolutionary RD-M1 scanner collects a constant stream of data as you drive, delivering precise surface conditions. You can quickly scan miles of road without the need for costly lane closures or rework.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715448/shopProjectFiles/Topcon_RD-M1_ufwgsf.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": [ "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 14,
+    "category": "scanner",
+    "numberOfReviews": 83,
+    "averageRating": 3
+  },
+  {
+    "name": "ScanStation P50",
+    "price": 1877821,
+    "description": "For industry professionals looking to scan inaccessible places and find new business opportunities, Leica ScanStation P50 is the fastest and safest, long range 3D laser scanner. Unlike any other laser scanner, the P50 solution maximises productivity by scanning inaccessible places at a safe position on site, reducing time in the field with less setups.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715448/shopProjectFiles/Leica_ScanStation_P50_bbtdsz.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 54,
+    "category": "scanner",
+    "numberOfReviews": 75,
+    "averageRating": 1
+  },
+  {
+    "name": "RTC360",
+    "price": 323608,
+    "description": "The Leica RTC360 3D reality capture solution empowers users to document and capture their environments in 3D, improving efficiency and productivity in the field and in the office through fast, simple-to-use, accurate, and portable hardware and software.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715448/shopProjectFiles/Leica_RTC360_brirjv.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 73,
+    "category": "scanner",
+    "numberOfReviews": 54,
+    "averageRating": 4
+  },
+  {
+    "name": "ScanStation P40",
+    "price": 642038,
+    "description": "Leica ScanStation P30/P40 deliver highest quality 3D data and High-Dynamic Range (HDR) imaging at an extremely fast scan rate of 1 million points per second at ranges of up to 270m.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715447/shopProjectFiles/Leica_ScanStation_P40_ooffv3.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 26,
+    "category": "scanner",
+    "numberOfReviews": 1,
+    "averageRating": 5
+  },
+  {
+    "name": "IP-S3",
+    "price": 1395218,
+    "description": "The IP-S3 positioning system integrates an Inertial Measurement Unit (IMU), GNSS receiver (GPS and GLONASS), and a vehicle odometer. It provides precise positioning and attitude in a dynamic environment.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715447/shopProjectFiles/Topcon_IP-S3_uvczma.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 28,
+    "category": "scanner",
+    "numberOfReviews": 37,
+    "averageRating": 5
+  },
+  {
+    "name": "BLK360",
+    "price": 688911,
+    "description": "The all-new Leica BLK360 is an advanced precision imaging laser scanner. At the push of a button, users can capture a full scan with spherical images in only twenty seconds - over five times faster than the BLK360 G1.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715447/shopProjectFiles/Leica_BLK360_dld2fg.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 95,
+    "category": "scanner",
+    "numberOfReviews": 25,
+    "averageRating": 4
+  },
+  {
+    "name": "S9 HP",
+    "price": 911145,
+    "description": "Whether your project involves monitoring, tunneling, or another highly specialized application, the Trimble S9 HP total station is the solution. It combines all of ourtop field technologies with our highest level of accuracy and our most advanced engineering features.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Trimble_S9_HP_velb2q.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 55,
+    "category": "total station",
+    "numberOfReviews": 81,
+    "averageRating": 1
+  },
+  {
+    "name": "SX12 Scanning",
+    "price": 582535,
+    "description": "With the NEW Trimble SX12 Scanning Total Station working harder has never been easier. It combines innovative technology with simple and intuitive functionality to help you save time, maximize efficiency and get more done in the field. ",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Trimble_SX12_Scanning_yz17vk.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 59,
+    "category": "total station",
+    "numberOfReviews": 37,
+    "averageRating": 2
+  },
+  {
+    "name": "S7",
+    "price": 1514799,
+    "description": "Now you only need one instrument on the job site to perform all your data capture. Create 3D models, high accuracy visual site documentation, point clouds, and more using the Trimble S7, Trimble Access field software and Trimble Business Center office software.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Trimble_S7_l1jxsz.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 49,
+    "category": "total station",
+    "numberOfReviews": 12,
+    "averageRating": 3
+  },
+  {
+    "name": "MS AXII",
+    "price": 969614,
+    "description": "When your project demands superior measuring precision, turn to the MS AXII robotic total station for guaranteed performance.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Topcon_MS_AXII_kspoim.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 58,
+    "category": "total station",
+    "numberOfReviews": 49,
+    "averageRating": 2
+  },
+  {
+    "name": "GTL-1200",
+    "price": 222659,
+    "description": "The GTL-1200 combines the power of a robotic total station with a best-in-class laser scanner to perform digital layout and capture high-res 3D scans in a single setup. Simplify the scanning process and dramatically reduce the need for post-processing by capturing scan data on survey control. The workflow seamlessly integrates with ClearEdge3D software for advanced construction QA workflows and as-builts.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Topcon_GTL-1200_ewmpbs.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 44,
+    "category": "total station",
+    "numberOfReviews": 84,
+    "averageRating": 2
+  },
+  {
+    "name": "S5",
+    "price": 1665908,
+    "description": "Count on the Trimble S5 total station to make your job easier, day after day, project after project.Built on proven Trimble technologies including Trimble SurePoint and MagDrive technology, and our DR Plus EDM this is the no nonsense workhorse that works efficiently and dependably while maintaining the highest possible accuracy.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Trimble_S5_bd6bie.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Trimble",
+    "colors": ["#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 32,
+    "category": "total station",
+    "numberOfReviews": 13,
+    "averageRating": 2
+  },
+  {
+    "name": "OS-100",
+    "price": 222384,
+    "description": "With the latest total station technology in an IP65-rated housing, the OS-100 is built for on-the-go tasks. This total station features far-reaching, precise-firing EDM capability; extended-use batteries and on-board MAGNET Field data-collection software.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715429/shopProjectFiles/Topcon_OS-100_g8r4nl.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 70,
+    "category": "total station",
+    "numberOfReviews": 65,
+    "averageRating": 5
+  },
+  {
+    "name": "TS60",
+    "price": 1501411,
+    "description": "The new Leica Nova TS60 total station is the world’s most accurate total station, designed to tackle your most demanding projects. The ground-breaking angular accuracy of 0.5” (sub-second) and distance accuracy of 0.6mm + 1ppm (sub-millimetre) enables you to work at the same high performance levels, even in the harshest of conditions. Be it in rain, fog, dust, sun, heat shimmer or reflections, the TS60 offers the fastest re-lock in case of an interrupted line of sight.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715428/shopProjectFiles/Leica_TS60_knrxli.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 13,
+    "category": "total station",
+    "numberOfReviews": 40,
+    "averageRating": 3
+  },
+  {
+    "name": "TM60",
+    "price": 1080356,
+    "description": "The new Leica Nova TS60 total station is the world’s most accurate total station, designed to tackle your most demanding projects. The ground-breang angular accuracy of 0.5” (sub-second) and distance accuracy of 0.6mm + 1ppm (sub-millimetre) enables you to work at the same high performance levels, even in the harshest of conditions. Be it in rain, fog, dust, sun, heat shimmer or reflections, the TS60 offers the fastest re-lock in case of an interrupted line of sight.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715428/shopProjectFiles/Leica_TM60_ivnsl0.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": false,
+    "inventory": 33,
+    "category": "total station",
+    "numberOfReviews": 43,
+    "averageRating": 5
+  },
+  {
+    "name": "GT-1200",
+    "price": 1536769,
+    "description": "The flagship GT Series ultrasonic robotic total station delivers accurate and productive workflows for highly demanding survey and construction applications. Lay out or survey more points precisely and in less time, while improving quality and consistency. Easy-to-use digital processes with repeatable accurate results mean less rework and better-quality control. Built for jobsite mobility, GT is one professional tool that does it all for layout, survey and machine guidance.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715428/shopProjectFiles/Topcon_GT-1200_keugjy.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Topcon",
+    "colors": ["#b02cc5"],
+    "featured": true,
+    "freeShipping": true,
+    "inventory": 87,
+    "category": "total station",
+    "numberOfReviews": 96,
+    "averageRating": 1
+  },
+  {
+    "name": "TS16",
+    "price": 1942956,
+    "description": "Made to face any challenge, task or project, the Leica TS16 automated total station will reliably support you and deliver accurate data when and where you need it. With the engaging Leica Captivate field software, paired with the self-learning ATRplus for automatic target recognition under any environmental circumstance, the TS16 can tackle every task with ease.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715428/shopProjectFiles/Leica_TS16_jharpt.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#12b4cd ", "#e12241"],
+    "featured": false,
+    "freeShipping": true,
+    "inventory": 14,
+    "category": "total station",
+    "numberOfReviews": 11,
+    "averageRating": 4
+  },
+  {
+    "name": "TS13",
+    "price": 548169,
+    "description": "The Leica TS13 is a mid-range robotic total station. It is a scalable robotic total station, powered by Leica Captivate field software and can be connected to a Leica CS20 field controller. It can be upgraded at any time to benefit from additional functionalities.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715428/shopProjectFiles/Leica_TS13_dlwn36.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 97,
+    "category": "total station",
+    "numberOfReviews": 94,
+    "averageRating": 3
+  },
+  {
+    "name": "MS60",
+    "price": 960697,
+    "description": "The MS60 comes with Leica Captivate, an onboard software with easy-to-use apps that cover all your surveying tasks. To make your work even more productive, you can benefit from the MS60’s  Dynamic Lock feature as well as the newly added, revolutionary setup assistant feature, Autoheight Feature - which helps you setup even faster and more accurately with the simple press of a button.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715427/shopProjectFiles/Leica_MS60_urjzw1.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "Leica",
+    "colors": ["#7cbc14", "#b02cc5", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 61,
+    "category": "total station",
+    "numberOfReviews": 28,
+    "averageRating": 5
+  },
+  {
+    "name": "CTS-112R4",
+    "price": 1953650,
+    "description": "The CTS-112R4 is one of the fastest total stations in its class, with a distance measurement speed of 0.3 seconds. Reflectorless range is up to 1000 m and distance measurement to single prism is up to 5000 m.",
+    "image": "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675715427/shopProjectFiles/CHCNAV_CTS-112R4_jplytr.png",
+    "smallImages": [
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage3_hb65zv.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage2_bhweso.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage1_nn8lgu.png",
+      "https://res.cloudinary.com/dwjvlbacl/image/upload/v1675856555/shopProjectFiles/customImage4_eu9vnq.png"
+    ],
+    "company": "CHCNAV",
+    "colors": ["#7cbc14", "#b02cc5", "#ebca2a", "#12b4cd ", "#e12241"],
+    "featured": true,
+    "freeShipping": false,
+    "inventory": 12,
+    "category": "total station",
+    "numberOfReviews": 3,
+    "averageRating": 4
+  }
+]

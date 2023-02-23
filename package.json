@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "concurrently": "^7.6.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "scripts": {
+    "start": "concurrently \"cd ./server && npm run server\" \"cd ./client && npm run dev\""
+  }
+}
