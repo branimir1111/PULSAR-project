@@ -1,11 +1,12 @@
 import PageTape from '../components/PageTape';
 import styled from 'styled-components';
+
 const PaymentPage = () => {
   return (
     <main>
       <PageTape title='payment' />
       <Wrapper className='page-100'>
-        <h1>PaymentPage</h1>
+        <h2>PaymentPage</h2>
       </Wrapper>
     </main>
   );

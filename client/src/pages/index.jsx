@@ -9,7 +9,11 @@ import ErrorPage from './ErrorPage';
 import PaymentPage from './PaymentPage';
 import ContactPage from './ContactPage';
 import RegisterLoginPage from './RegisterLoginPage';
-import DashboardPage from './DashboardPage';
+import DashboardSharedLayout from './DashboardSharedLayout';
+import DashboardAllProducts from './DashboardAllProducts';
+import DashboardCreateProducts from './DashboardCreateProducts';
+import DashboardUpdate from './DashboardUpdate';
+import DashboardDelete from './DashboardDelete';
 
 export {
   SharedLayout,
@@ -23,5 +27,9 @@ export {
   ContactPage,
   RegisterLoginPage,
   ErrorPage,
-  DashboardPage,
+  DashboardSharedLayout,
+  DashboardAllProducts,
+  DashboardCreateProducts,
+  DashboardUpdate,
+  DashboardDelete,
 };

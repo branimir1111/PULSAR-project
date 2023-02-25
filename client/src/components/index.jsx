@@ -26,6 +26,8 @@ import ColumnCartNames from './ColumnCartNames';
 import SingleCartItem from './SingleCartItem';
 import CartTotalValue from './CartTotalValue';
 import Alert from './Alert';
+import DashboardAside from './DashboardAside';
+import DashboardProduct from './DashboardProduct';
 
 export {
   Navbar,
@@ -56,4 +58,6 @@ export {
   SingleCartItem,
   CartTotalValue,
   Alert,
+  DashboardAside,
+  DashboardProduct,
 };

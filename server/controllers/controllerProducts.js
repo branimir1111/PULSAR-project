@@ -21,4 +21,8 @@ const getSingleProduct = async (req, res) => {
   res.status(StatusCodes.OK).json({ singleProduct });
 };
 
-export { getAllProducts, getSingleProduct, getFeaturedProducts };
+const createProduct = async (req, res) => {
+  res.send('create product');
+};
+
+export { getAllProducts, getSingleProduct, getFeaturedProducts, createProduct };

@@ -41,17 +41,17 @@ const Sidebar = () => {
               </NavLink>
             </li>
           )}
-          {/* Nexto 2 links are for payment and admin */}
-          {/* {customUser && (
+          {user && user.role === 'admin' && (
             <li>
-              <Link to='/payment'>payment</Link>
+              <NavLink
+                to='/dashboard'
+                onClick={closeSidebar}
+                className={({ isActive }) => (isActive ? 'activeLink' : null)}
+              >
+                dashboard
+              </NavLink>
             </li>
           )}
-          {adminUser && (
-            <li>
-              <Link to='/adminPanel'>admin panel</Link>
-            </li>
-          )} */}
         </ul>
         <CartLoginBtn />
       </aside>

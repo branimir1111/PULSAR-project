@@ -11,7 +11,11 @@ import {
   ContactPage,
   ErrorPage,
   RegisterLoginPage,
-  DashboardPage,
+  DashboardSharedLayout,
+  DashboardAllProducts,
+  DashboardCreateProducts,
+  DashboardUpdate,
+  DashboardDelete,
 } from './pages';
 
 const App = () => {
@@ -29,8 +33,13 @@ const App = () => {
           <Route path='payment' element={<PaymentPage />}></Route>
           <Route path='contact' element={<ContactPage />}></Route>
           <Route path='login' element={<RegisterLoginPage />}></Route>
-          <Route path='dashboard' element={<DashboardPage />}></Route>
-          {/* Here I need to add 1 more page for admin */}
+          <Route path='dashboard' element={<DashboardSharedLayout />}>
+            <Route index element={<DashboardAllProducts />}></Route>
+            <Route path='getall' element={<DashboardAllProducts />}></Route>
+            <Route path='create' element={<DashboardCreateProducts />}></Route>
+            <Route path='update' element={<DashboardUpdate />}></Route>
+            <Route path='delete' element={<DashboardDelete />}></Route>
+          </Route>
           <Route path='*' element={<ErrorPage />} />
         </Route>
       </Routes>

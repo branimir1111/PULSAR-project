@@ -5,7 +5,8 @@ import {
 import { isTokenValid } from './cookieTokenCreate.js';
 
 const authenticateUser = (req, res, next) => {
-  const token = req.signedCookies.pulsar; //na kraju je 'token' zato sto smo nas cookie nazvali 'token'
+  const token = req.signedCookies.pulsar; //na kraju je 'pulsar' zato sto smo nas cookie nazvali 'pulsar'
+
   if (!token) {
     throw new UnauthenticatedError('Authorization Invalid');
   }
@@ -14,11 +15,11 @@ const authenticateUser = (req, res, next) => {
     req.user = { name, userId, role };
     next();
   } catch (error) {
-    throw new UnauthenticatedError('Authorization Invalid');
+    throw new UnauthenticatedError('Authorization Invalid drugo');
   }
 };
 
-const authorizeUser = (...roles) => {
+const authorizeAdmin = (...roles) => {
   return (req, res, next) => {
     if (!roles.includes(req.user.role)) {
       throw new UnauthorizedError('Unathorized to access this route.');
@@ -27,4 +28,4 @@ const authorizeUser = (...roles) => {
   };
 };
 
-export { authenticateUser, authorizeUser };
+export { authenticateUser, authorizeAdmin };

@@ -23,13 +23,28 @@ const RegisterLoginPage = () => {
   const toggleMember = () => {
     setAlreadyUser(!alreadyUser);
   };
+
+  const onSubmitDemoAdmin = (e) => {
+    e.preventDefault();
+    const currentUser = {
+      name: 'branimir',
+      email: 'branimir@gmail.com',
+      password: 'branimiradmin',
+    };
+    setupUser({
+      currentUser,
+      endUrl: 'login',
+      alertText: 'Successful admin ! Redirecting...',
+    });
+  };
+
   const onSubmit = (e) => {
     e.preventDefault();
     const { name, email, password } = values;
-    // if (!email || !password || (!alreadyUser && !name)) {
-    //   notAllValuesAlert();
-    //   return;
-    // }
+    if (!email || !password || (!alreadyUser && !name)) {
+      notAllValuesAlert();
+      return;
+    }
     const currentUser = { name, email, password };
     if (alreadyUser) {
       setupUser({
@@ -48,7 +63,7 @@ const RegisterLoginPage = () => {
   useEffect(() => {
     if (user) {
       setTimeout(() => {
-        navigate('/');
+        navigate('/cart');
       }, 2000);
     }
   }, [user, navigate]);
@@ -82,12 +97,18 @@ const RegisterLoginPage = () => {
           <button type='submit' className='submitBtn'>
             submit
           </button>
+
           <p>
             {alreadyUser ? 'Not a member yet?' : 'Already a member?'}
             <button type='button' onClick={toggleMember} className='regLogBtn'>
               {alreadyUser ? 'Register' : 'Login'}
             </button>
           </p>
+        </form>
+        <form onSubmit={onSubmitDemoAdmin} className='formDemoAdmin'>
+          <button type='submit' className='submitBtn demoAdminBtn'>
+            demo admin
+          </button>
         </form>
       </div>
     </Wrapper>
@@ -144,6 +165,13 @@ const Wrapper = styled.section`
     &:hover {
       background: #e0bf04;
     }
+  }
+  .formDemoAdmin {
+    margin: 0 auto;
+  }
+  .demoAdminBtn {
+    padding: 0.7rem 1rem;
+    background: #ff5470;
   }
   p {
     color: #272343;

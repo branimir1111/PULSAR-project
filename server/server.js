@@ -10,6 +10,7 @@ import 'express-async-errors'; //This library is about what happens when you hit
 import productRoutes from './routes/routesProducts.js';
 import usersRoutes from './routes/routesUser.js';
 import cookieParser from 'cookie-parser';
+
 //
 //
 //

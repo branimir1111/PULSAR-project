@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import FeaturedProduct from './FeaturedProduct';
-import { useState } from 'react';
 
 const AllProductsGrid = ({ filteredProducts }) => {
   return (
