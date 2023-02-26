@@ -1,10 +1,15 @@
 import styled from 'styled-components';
 import { useState } from 'react';
-import { FormInput } from '../components';
+import { FormInput, Alert } from '../components';
 import { MdOutlineCheckCircleOutline } from 'react-icons/md';
 import axios from 'axios';
+import { useContextUser } from '../context/contextUser';
+import { useContextProducts } from '../context/contextProducts';
 
 const initialState = {
+  alertType: '',
+  alertText: '',
+  showAlert: false,
   name: '',
   price: 0,
   description: '',
@@ -15,9 +20,13 @@ const initialState = {
   freeShipping: false,
   inventory: 0,
   category: '',
+  numberOfReviews: 0,
+  averageRating: 0,
 };
 const DashboardCreateProducts = () => {
   const [values, setValues] = useState(initialState);
+  const { showAlert, notAllValuesAlert } = useContextUser();
+  const { setupProduct } = useContextProducts();
 
   const colorsArr = ['#7cbc14', '#b02cc5', '#ebca2a', '#12b4cd ', '#e12241'];
 
@@ -52,16 +61,62 @@ const DashboardCreateProducts = () => {
           'Content-Type': 'multipart/form-data',
         },
       });
-      let imageValue = src;
-      // console.log(imageValue);
+      const imageValue = src;
+      setValues({ ...values, [e.target.name]: imageValue });
     } catch (error) {
-      let imageValue = null;
+      const imageValue = null;
       console.log(error);
     }
   };
 
   const onSubmit = (e) => {
     e.preventDefault();
+    const {
+      name,
+      price,
+      description,
+      image,
+      company,
+      colors,
+      featured,
+      freeShipping,
+      inventory,
+      category,
+      numberOfReviews,
+      averageRating,
+    } = values;
+
+    if (
+      !name ||
+      !price ||
+      !description ||
+      !image ||
+      !company ||
+      !colors ||
+      !inventory ||
+      !category
+    ) {
+      notAllValuesAlert();
+      return;
+    }
+    const currentProduct = {
+      name,
+      price,
+      description,
+      image,
+      company,
+      colors,
+      featured,
+      freeShipping,
+      inventory,
+      category,
+      numberOfReviews,
+      averageRating,
+    };
+    setupProduct({
+      currentProduct,
+      alertText: 'Product created',
+    });
   };
 
   const resetAll = () => {
@@ -76,6 +131,8 @@ const DashboardCreateProducts = () => {
       freeShipping: false,
       inventory: 0,
       category: '',
+      numberOfReviews: 0,
+      averageRating: 0,
     });
   };
 
@@ -137,6 +194,7 @@ const DashboardCreateProducts = () => {
           <option value='CHCNAV'>CHCNAV</option>
         </select>
         {/* COLORS */}
+        <h5>Colors</h5>
         {colorsArr.map((singleColor, index) => {
           return (
             <button
@@ -206,6 +264,10 @@ const DashboardCreateProducts = () => {
           <option value='scanner'>scanner</option>
           <option value='total station'>total station</option>
         </select>
+        {showAlert && <Alert />}
+        <button type='submit' className='submitBtn'>
+          create product
+        </button>
       </form>
       <button type='button' onClick={resetAll}>
         reset All

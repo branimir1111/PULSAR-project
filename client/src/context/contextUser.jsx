@@ -49,7 +49,7 @@ export const ProviderUser = ({ children }) => {
   };
   return (
     <ContextUser.Provider
-      value={{ ...state, notAllValuesAlert, setupUser, logoutUser }}
+      value={{ ...state, notAllValuesAlert, setupUser, logoutUser, clearAlert }}
     >
       {children}
     </ContextUser.Provider>

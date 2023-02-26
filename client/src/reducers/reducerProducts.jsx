@@ -39,6 +39,22 @@ const reducerProducts = (state, action) => {
       singleProduct_error: true,
     };
   }
+  if (action.type === 'PRODUCT_SUCCESS') {
+    return {
+      ...state,
+      showAlert: true,
+      alertType: 'success',
+      alertText: action.payload.alertText,
+    };
+  }
+  if (action.type === 'PRODUCT_ERROR') {
+    return {
+      ...state,
+      showAlert: true,
+      alertType: 'danger',
+      alertText: 'Something went wrong',
+    };
+  }
   throw new Error(`There is no matcing "${action.type}"-action type`);
 };
 export default reducerProducts;

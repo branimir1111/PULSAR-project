@@ -6,6 +6,7 @@ import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import cloud from 'cloudinary';
 const cloudinary = cloud.v2;
+import fs from 'fs';
 
 const getAllProducts = async (req, res) => {
   const products = await Product.find({});
@@ -63,40 +64,26 @@ const deleteProduct = async (req, res) => {
 };
 
 const uploadImage = async (req, res) => {
-  let productImage = req.files.image;
-  console.log(productImage);
-  // const result = await cloudinary.uploader.upload(
-  //   req.files.image.tempFilePath,
-  //   {
-  //     use_filename: true,
-  //     folder: 'fileUpload',
-  //   }
-  // );
-  // fs.unlinkSync(req.files.image.tempFilePath);
-  // res
-  //   .status(StatusCodes.OK)
-  //   .json({ image: { src: `/uploads/${result.secure_url}` } });
-  // if (!req.files) {
-  //   throw new CustomError.BadRequestError(`No file uploaded`);
-  // }
-  // if (!req.files.image.mimetype.startsWith('image')) {
-  //   throw new CustomError.BadRequestError(`Please upload an image`);
-  // }
-  // const maxSize = 1024 * 1024;
-  // if (req.files.image.size > maxSize) {
-  //   throw new CustomError.BadRequestError(
-  //     `Please upload image smaller than 1MB`
-  //   );
-  // }
-
-  const __filename = fileURLToPath(import.meta.url);
-
-  const __dirname = path.dirname(__filename);
-  const imagePath = path.join(
-    __dirname,
-    `../uploadedPictures/${productImage.name}`
+  const result = await cloudinary.uploader.upload(
+    req.files.image.tempFilePath,
+    {
+      use_filename: true,
+      folder: 'shopProjectFiles',
+    }
   );
-  await productImage.mv(imagePath);
+  fs.unlinkSync(req.files.image.tempFilePath);
+  res.status(StatusCodes.OK).json({ image: { src: result.secure_url } });
+
+  // this is when we want to store images on our server
+  // let productImage = req.files.image;
+  // const __filename = fileURLToPath(import.meta.url);
+  // const __dirname = path.dirname(__filename);
+
+  // const imagePath = path.join(
+  //   __dirname,
+  //   `../uploadedPictures/${productImage.name}`
+  // );
+  // await productImage.mv(imagePath);
   // res
   //   .status(StatusCodes.OK)
   //   .json({ image: { src: `/uploadedPictures/${req.files.image.name}` } });

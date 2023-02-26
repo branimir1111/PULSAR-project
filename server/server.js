@@ -14,6 +14,7 @@ import fileUpload from 'express-fileupload';
 import cloud from 'cloudinary';
 const cloudinary = cloud.v2;
 
+//CLOUDINARY CONFIG
 cloudinary.config({
   cloud_name: process.env.CLOUD_NAME,
   api_key: process.env.CLOUD_API_KEY,
@@ -23,9 +24,9 @@ cloudinary.config({
 //
 //
 //MIDDLEWARE
-// app.use(express.static('./uplodedPictures'));
+app.use(express.static('./uplodedPictures'));
 app.use(express.json()); // now we can use req.body json() data
-app.use(fileUpload());
+app.use(fileUpload({ useTempFiles: true }));
 app.use(cookieParser(process.env.JWT_SECRET)); // we can read cookie with signature
 
 //main routes
