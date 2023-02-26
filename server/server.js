@@ -10,12 +10,22 @@ import 'express-async-errors'; //This library is about what happens when you hit
 import productRoutes from './routes/routesProducts.js';
 import usersRoutes from './routes/routesUser.js';
 import cookieParser from 'cookie-parser';
+import fileUpload from 'express-fileupload';
+import cloud from 'cloudinary';
+const cloudinary = cloud.v2;
 
+cloudinary.config({
+  cloud_name: process.env.CLOUD_NAME,
+  api_key: process.env.CLOUD_API_KEY,
+  api_secret: process.env.CLOUD_API_SECRET,
+});
 //
 //
 //
 //MIDDLEWARE
+// app.use(express.static('./uplodedPictures'));
 app.use(express.json()); // now we can use req.body json() data
+app.use(fileUpload());
 app.use(cookieParser(process.env.JWT_SECRET)); // we can read cookie with signature
 
 //main routes

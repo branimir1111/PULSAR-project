@@ -16,7 +16,7 @@ const ProductSchema = new mongoose.Schema({
     required: [true, 'Please provide product descritpion'],
     maxLength: [1000, 'Description can not be more than 1000 characters'],
   },
-  image: { type: String, default: '/uploads/example.js' },
+  image: { type: String, required: true },
   smallImages: {
     type: [String],
     default: '/uploads/example.js',
