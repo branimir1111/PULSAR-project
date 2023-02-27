@@ -46,7 +46,12 @@ const DashboardCreateProducts = () => {
       [e.target.name]: newColors,
     });
   };
-
+  const resetColors = () => {
+    setValues({
+      ...values,
+      colors: [],
+    });
+  };
   const handleImage = async (e) => {
     const imageFile = e.target.files[0];
     const formData = new FormData();
@@ -155,7 +160,9 @@ const DashboardCreateProducts = () => {
         />
         {/* DESCRIPTION */}
         <div className='description'>
-          <label htmlFor='description'>Description</label>
+          <label htmlFor='description' id='descriptionLabel'>
+            description
+          </label>
           <textarea
             name='description'
             className='description'
@@ -167,19 +174,21 @@ const DashboardCreateProducts = () => {
         </div>
         {/* IMAGE */}
         <div className='form-row'>
-          <label htmlFor='image' className='form-label'>
-            Image
+          <label htmlFor='image' className='imageLabel'>
+            image
           </label>
           <input
             type='file'
             name='image'
-            id='image'
+            id='imageInput'
             accept='image/*'
             onChange={handleImage}
           />
         </div>
         {/* COMPANY */}
-        <label htmlFor='company'>company</label>
+        <label htmlFor='company' className='companyLabel'>
+          company
+        </label>
         <select
           name='company'
           id='company'
@@ -194,7 +203,7 @@ const DashboardCreateProducts = () => {
           <option value='CHCNAV'>CHCNAV</option>
         </select>
         {/* COLORS */}
-        <h5>Colors</h5>
+        <h5 className='colorLabel'>Colors</h5>
         {colorsArr.map((singleColor, index) => {
           return (
             <button
@@ -213,10 +222,14 @@ const DashboardCreateProducts = () => {
           );
         })}
 
+        <button type='button' onClick={resetColors} className='resetColorsBtn'>
+          reset colors
+        </button>
+
         {/* FEATURED */}
         <div className='featuredContainer'>
-          <label htmlFor='featured' className='labelFeatured'>
-            <h5>Featured</h5>
+          <label htmlFor='featured'>
+            <h5 className='featuredLabel'>Featured</h5>
           </label>
           <input
             type='checkbox'
@@ -228,8 +241,8 @@ const DashboardCreateProducts = () => {
         </div>
         {/* FREESHIPPING */}
         <div className='freeShippingContainer'>
-          <label htmlFor='freeShipping' className='labelFreeShipping'>
-            <h5>freeShipping</h5>
+          <label htmlFor='freeShipping'>
+            <h5 className='freeShippingLabel'>freeShipping</h5>
           </label>
           <input
             type='checkbox'
@@ -247,7 +260,9 @@ const DashboardCreateProducts = () => {
           handleChange={handleChange}
         />
         {/* CATEGORY */}
-        <label htmlFor='category'>company</label>
+        <label htmlFor='category' className='categoryLabel'>
+          category
+        </label>
         <select
           name='category'
           id='category'
@@ -269,7 +284,7 @@ const DashboardCreateProducts = () => {
           create product
         </button>
       </form>
-      <button type='button' onClick={resetAll}>
+      <button type='button' onClick={resetAll} className='resetAllBtn'>
         reset All
       </button>
     </Wrapper>
@@ -278,9 +293,142 @@ const DashboardCreateProducts = () => {
 
 const Wrapper = styled.section`
   display: grid;
+  align-items: center;
+  justify-content: center;
+  background: #e3f6f5;
+  padding: 1rem 0;
+  .formCreate {
+    background: #bae8e8;
+    width: 400px;
+    padding: 1rem;
+    border-radius: var(--radius);
+  }
+  .formInput {
+    width: 100%;
+    padding: 0.5rem;
+    border: none;
+    border-radius: var(--radius);
+    margin: 0.5rem 0;
+  }
+  #descriptionLabel {
+    display: block;
+  }
+  .description {
+    width: 100%;
+    border: none;
+    border-radius: var(--radius);
+    margin: 0.5rem 0;
+  }
+  .imageLabel {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  #imageInput {
+    border: none;
+    border-radius: var(--radius);
+  }
+  .companyLabel {
+    display: block;
+    margin: 1rem 0;
+  }
+  .companyInput {
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  .colorLabel {
+    color: #272343;
+  }
   .colorBtn {
-    width: 20px;
-    height: 20px;
+    width: 24px;
+    height: 24px;
+    border: none;
+    border-radius: 50%;
+    margin-right: 0.3rem;
+    svg {
+      color: #e3f6f5;
+      margin: 0;
+      padding: 0;
+      font-size: 1.5rem;
+    }
+  }
+
+  .resetColorsBtn {
+    display: block;
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.5rem;
+    cursor: pointer;
+    &:hover {
+      box-shadow: var(--light-shadow);
+    }
+  }
+  .featuredContainer {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    margin: 1rem 0;
+  }
+  .featuredLabel {
+    color: #272343;
+    padding-top: 0.6rem;
+  }
+  .featuredInput {
+    display: block;
+    width: 1rem;
+  }
+  .freeShippingContainer {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    margin: 1rem 0;
+  }
+  .freeShippingLabel {
+    color: #272343;
+    padding-top: 0.6rem;
+  }
+  .freeShippingInput {
+    display: block;
+    width: 1rem;
+  }
+  .categoryLabel {
+    display: block;
+    margin: 1rem 0;
+  }
+  .categoryInput {
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .submitBtn {
+    display: block;
+    background: #6246ea;
+    color: #fffffe;
+    text-transform: uppercase;
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.5rem;
+    transition: var(--transition);
+    cursor: pointer;
+    &:hover {
+      box-shadow: var(--light-shadow);
+      background: #351bb4;
+    }
+  }
+  .resetAllBtn {
+    display: block;
+    border: none;
+    border-radius: var(--radius);
+    padding: 0.5rem;
+    color: #fffffe;
+    text-transform: uppercase;
+    background: #d76464;
+    cursor: pointer;
+    transition: var(--transition);
+    &:hover {
+      background: #c42c2c;
+    }
   }
 `;
 export default DashboardCreateProducts;

@@ -13,7 +13,6 @@ const CartLoginBtn = () => {
 
   return (
     <Wrapper className='cartLoginWrapper'>
-      {/* Here goes Logout button */}
       {user ? (
         <Link
           to='/'
@@ -22,6 +21,7 @@ const CartLoginBtn = () => {
             clearShopCart();
             closeSidebar();
             logoutUser();
+            clearLocaleStorage();
           }}
         >
           Logout
