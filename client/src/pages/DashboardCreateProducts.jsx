@@ -1,15 +1,12 @@
 import styled from 'styled-components';
 import { useState } from 'react';
-import { FormInput, Alert } from '../components';
+import { FormInput, Alert, AlertProduct } from '../components';
 import { MdOutlineCheckCircleOutline } from 'react-icons/md';
 import axios from 'axios';
 import { useContextUser } from '../context/contextUser';
 import { useContextProducts } from '../context/contextProducts';
 
 const initialState = {
-  alertType: '',
-  alertText: '',
-  showAlert: false,
   name: '',
   price: 0,
   description: '',
@@ -26,7 +23,8 @@ const initialState = {
 const DashboardCreateProducts = () => {
   const [values, setValues] = useState(initialState);
   const { showAlert, notAllValuesAlert } = useContextUser();
-  const { setupProduct } = useContextProducts();
+  const { setupProduct, alertTypeProduct, alertTextProduct, showAlertProduct } =
+    useContextProducts();
 
   const colorsArr = ['#7cbc14', '#b02cc5', '#ebca2a', '#12b4cd ', '#e12241'];
 
@@ -280,6 +278,7 @@ const DashboardCreateProducts = () => {
           <option value='total station'>total station</option>
         </select>
         {showAlert && <Alert />}
+        {showAlertProduct && <AlertProduct />}
         <button type='submit' className='submitBtn'>
           create product
         </button>

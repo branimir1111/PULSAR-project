@@ -7,6 +7,9 @@ const featuredUrl = '/api/v1/products/featured';
 const ContextProducts = React.createContext();
 
 const initialState = {
+  alertTypeProduct: '',
+  alertTextProduct: '',
+  showAlertProduct: false,
   sidebarOpen: false,
   featured_loading: false,
   featured_error: false,
@@ -49,23 +52,26 @@ export const ProviderProducts = ({ children }) => {
     }
   };
 
-  const setupProduct = async ({ currentProduct, alertText }) => {
+  const clearAlert = () => {
+    setTimeout(() => {
+      dispatch({ type: 'CLEAR_ALERT_PRODUCT' });
+    }, 2000);
+  };
+  const setupProduct = async ({ currentProduct }) => {
     const { data } = await axios.post(`/api/v1/products`, currentProduct);
     const { product } = data;
     try {
       console.log(product);
       dispatch({
         type: 'PRODUCT_SUCCESS',
-        payload: { alertText },
       });
     } catch (error) {
       if (error.response.status === 401) return;
       dispatch({
         type: 'PRODUCT_ERROR',
-        payload: { msg: error.response.status },
       });
     }
-    // clearAlert();
+    clearAlert();
   };
 
   useEffect(() => {

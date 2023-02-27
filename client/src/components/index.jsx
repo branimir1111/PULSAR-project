@@ -28,6 +28,7 @@ import CartTotalValue from './CartTotalValue';
 import Alert from './Alert';
 import DashboardAside from './DashboardAside';
 import DashboardProduct from './DashboardProduct';
+import AlertProduct from './AlertProduct';
 
 export {
   Navbar,
@@ -60,4 +61,5 @@ export {
   Alert,
   DashboardAside,
   DashboardProduct,
+  AlertProduct,
 };

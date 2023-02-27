@@ -41,6 +41,7 @@ const reducerUser = (state, action) => {
       user: null,
     };
   }
+
   throw new Error(`There is no matcing "${action.type}"-action type`);
 };
 
