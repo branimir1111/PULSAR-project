@@ -55,6 +55,22 @@ const reducerProducts = (state, action) => {
       alertTextProduct: 'Product created',
     };
   }
+  if (action.type === 'PRODUCT_SUCCESS_UPDATED') {
+    return {
+      ...state,
+      showAlertProduct: true,
+      alertTypeProduct: 'success',
+      alertTextProduct: 'Product updated',
+    };
+  }
+  if (action.type === 'PRODUCT_SUCCESS_DELETED') {
+    return {
+      ...state,
+      showAlertProduct: true,
+      alertTypeProduct: 'danger',
+      alertTextProduct: 'Product deleted',
+    };
+  }
   if (action.type === 'PRODUCT_ERROR') {
     return {
       ...state,

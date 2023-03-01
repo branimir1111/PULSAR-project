@@ -14,12 +14,12 @@ const DashboardProduct = ({ _id, image, company, name, category }) => {
       </div>
       <hr />
       <footer className='delUpBtn'>
-        <Link to='/dashboard/update'>
+        <Link to={`/dashboard/update/${_id}`}>
           <button type='button' className='butt buttUpdate'>
             update
           </button>
         </Link>
-        <Link to='/dashboard/delete'>
+        <Link to={`/dashboard/delete/${_id}`}>
           <button type='button' className='butt buttDelete'>
             delete
           </button>

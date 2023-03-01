@@ -37,8 +37,14 @@ const App = () => {
             <Route index element={<DashboardAllProducts />}></Route>
             <Route path='getall' element={<DashboardAllProducts />}></Route>
             <Route path='create' element={<DashboardCreateProducts />}></Route>
-            <Route path='update' element={<DashboardUpdate />}></Route>
-            <Route path='delete' element={<DashboardDelete />}></Route>
+            <Route
+              path='update/:productId'
+              element={<DashboardUpdate />}
+            ></Route>
+            <Route
+              path='delete/:productId'
+              element={<DashboardDelete />}
+            ></Route>
           </Route>
           <Route path='*' element={<ErrorPage />} />
         </Route>

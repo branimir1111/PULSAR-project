@@ -32,6 +32,7 @@ const DashboardAside = () => {
 
 const Wrapper = styled.aside`
   padding: 0.5rem;
+  background: #a8f4e9;
   li {
     margin-bottom: 0.5rem;
   }

@@ -73,6 +73,45 @@ export const ProviderProducts = ({ children }) => {
     }
     clearAlert();
   };
+  const updateProduct = async ({ currentProduct, _id }) => {
+    const { data } = await axios.patch(
+      `/api/v1/products/${_id}`,
+      currentProduct
+    );
+    const { product } = data;
+    try {
+      console.log(product);
+      dispatch({
+        type: 'PRODUCT_SUCCESS_UPDATED',
+      });
+    } catch (error) {
+      if (error.response.status === 401) return;
+      dispatch({
+        type: 'PRODUCT_ERROR',
+      });
+    }
+    clearAlert();
+  };
+
+  const deleteProduct = async ({ currentProduct, _id }) => {
+    const { data } = await axios.delete(
+      `/api/v1/products/${_id}`,
+      currentProduct
+    );
+    const { product } = data;
+    try {
+      console.log(product);
+      dispatch({
+        type: 'PRODUCT_SUCCESS_DELETED',
+      });
+    } catch (error) {
+      if (error.response.status === 401) return;
+      dispatch({
+        type: 'PRODUCT_ERROR',
+      });
+    }
+    clearAlert();
+  };
 
   useEffect(() => {
     getFeaturedProducts(featuredUrl);
@@ -85,6 +124,8 @@ export const ProviderProducts = ({ children }) => {
         closeSidebar,
         getSingleProduct,
         setupProduct,
+        updateProduct,
+        deleteProduct,
       }}
     >
       {children}

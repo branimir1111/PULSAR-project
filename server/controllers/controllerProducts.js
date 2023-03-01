@@ -34,33 +34,31 @@ const createProduct = async (req, res) => {
 };
 
 const updateProduct = async (req, res) => {
-  res.send('update Product');
-
-  // const { id: productId } = req.params;
-  // const product = await Product.findOneAndUpdate({ _id: productId }, req.body, {
-  //   new: true,
-  //   runValidators: true,
-  // });
-  // if (!product) {
-  //   throw new CustomError.NotFoundError(
-  //     `There is no product with id:${productId}`
-  //   );
-  // }
-  // res.status(StatusCodes.OK).json({ product });
+  const { id: productId } = req.params;
+  const product = await Product.findOneAndUpdate({ _id: productId }, req.body, {
+    new: true,
+    runValidators: true,
+  });
+  if (!product) {
+    throw new CustomError.NotFoundError(
+      `There is no product with id:${productId}`
+    );
+  }
+  res.status(StatusCodes.OK).json({ product });
 };
 
 const deleteProduct = async (req, res) => {
   res.send('delete Product');
 
-  // const { id: productId } = req.params;
-  // const product = await Product.findOne({ _id: productId });
-  // if (!product) {
-  //   throw new CustomError.NotFoundError(
-  //     `There is no product with id:${productId}`
-  //   );
-  // }
-  // await product.remove();
-  // res.status(StatusCodes.OK).json({ msg: 'Success! Product removed!' });
+  const { id: productId } = req.params;
+  const product = await Product.findOne({ _id: productId });
+  if (!product) {
+    throw new CustomError.NotFoundError(
+      `There is no product with id:${productId}`
+    );
+  }
+  await product.remove();
+  res.status(StatusCodes.OK).json({ msg: 'Success! Product removed!' });
 };
 
 const uploadImage = async (req, res) => {

@@ -21,7 +21,7 @@ const DashboardAllProducts = () => {
         <button
           type='button'
           className='loadMoreBtn'
-          onClick={() => setEnd(end + 3)}
+          onClick={() => setEnd(end + 9)}
         >
           Load More
         </button>

@@ -142,6 +142,7 @@ const DashboardCreateProducts = () => {
   return (
     <Wrapper>
       <form className='formCreate' onSubmit={onSubmit}>
+        <h3>create product</h3>
         {/* NAME */}
         <FormInput
           type='text'
