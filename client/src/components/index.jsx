@@ -29,6 +29,7 @@ import Alert from './Alert';
 import DashboardAside from './DashboardAside';
 import DashboardProduct from './DashboardProduct';
 import AlertProduct from './AlertProduct';
+import PaymentCart from './PaymentCart';
 
 export {
   Navbar,
@@ -62,4 +63,5 @@ export {
   DashboardAside,
   DashboardProduct,
   AlertProduct,
+  PaymentCart,
 };
