@@ -41,7 +41,12 @@ const reducerUser = (state, action) => {
       user: null,
     };
   }
-
+  if (action.type === 'GET_CURRENT_USER') {
+    return {
+      ...state,
+      user: action.payload.user,
+    };
+  }
   throw new Error(`There is no matcing "${action.type}"-action type`);
 };
 

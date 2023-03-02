@@ -1,5 +1,4 @@
-import React from 'react';
-import { useContext, useReducer } from 'react';
+import React, { useEffect, useContext, useReducer } from 'react';
 import reducer from '../reducers/reducerUser';
 import axios from 'axios';
 
@@ -43,6 +42,21 @@ export const ProviderUser = ({ children }) => {
     }
     clearAlert();
   };
+
+  const getCurrentUser = async () => {
+    try {
+      const { data } = await axios.get('/api/v1/users/getCurrentUser');
+      const { user } = data;
+      dispatch({ type: 'GET_CURRENT_USER', payload: { user } });
+    } catch (error) {
+      if (error.response.status === 401) return;
+      console.log(error);
+    }
+  };
+  useEffect(() => {
+    getCurrentUser();
+  }, []);
+
   const logoutUser = async () => {
     await axios.get('/api/v1/users/logout');
     dispatch({ type: 'LOGOUT_USER' });

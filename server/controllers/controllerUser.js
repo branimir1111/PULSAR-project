@@ -63,4 +63,9 @@ const logout = async (req, res) => {
   res.status(StatusCodes.OK).json({ msg: 'user logout' });
 };
 
-export { register, login, logout };
+const getCurrentUser = async (req, res) => {
+  const user = await User.findOne({ _id: req.user.userId });
+  res.status(StatusCodes.OK).json({ user });
+};
+
+export { register, login, logout, getCurrentUser };
