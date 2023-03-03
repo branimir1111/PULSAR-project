@@ -37,6 +37,19 @@ const RegisterLoginPage = () => {
       alertText: 'Successful admin ! Redirecting...',
     });
   };
+  const onSubmitDemoUser = (e) => {
+    e.preventDefault();
+    const currentUser = {
+      name: 'test',
+      email: 'test@gmail.com',
+      password: 'testuser',
+    };
+    setupUser({
+      currentUser,
+      endUrl: 'login',
+      alertText: 'Successful testUser ! Redirecting...',
+    });
+  };
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -105,11 +118,18 @@ const RegisterLoginPage = () => {
             </button>
           </p>
         </form>
-        <form onSubmit={onSubmitDemoAdmin} className='formDemoAdmin'>
-          <button type='submit' className='submitBtn demoAdminBtn'>
-            demo admin
-          </button>
-        </form>
+        <div className='userAdminBtnContainer'>
+          <form onSubmit={onSubmitDemoUser} className='formDemoUser'>
+            <button type='submit' className='submitBtn demoUserBtn'>
+              demo user
+            </button>
+          </form>
+          <form onSubmit={onSubmitDemoAdmin} className='formDemoAdmin'>
+            <button type='submit' className='submitBtn demoAdminBtn'>
+              demo admin
+            </button>
+          </form>
+        </div>
       </div>
     </Wrapper>
   );
@@ -152,6 +172,11 @@ const Wrapper = styled.section`
     background: #e3f6f5;
     border-radius: var(--radius);
   }
+  .userAdminBtnContainer {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+  }
   .submitBtn {
     margin: 0.5rem 0;
     padding: 0.7rem 0;
@@ -166,8 +191,9 @@ const Wrapper = styled.section`
       background: #e0bf04;
     }
   }
-  .formDemoAdmin {
-    margin: 0 auto;
+  .demoUserBtn {
+    padding: 0.7rem 1rem;
+    background: #3ee25c;
   }
   .demoAdminBtn {
     padding: 0.7rem 1rem;
